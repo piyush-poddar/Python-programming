@@ -3,4 +3,4 @@ This python program is to demonstrate the use of basic arithmetic operators in p
 """
 num1=int(input("Enter first number: "))
 num2=int(input("Enter second number: "))
-print(num1,'+',num2,'=',num1+num2)
+print("Sum of",num1,"and",num2,"is",num1+num2)
